@@ -1,0 +1,6 @@
+framework module Pods_gaitanalysis_gaitanalysisUITests {
+  umbrella header "Pods-gaitanalysis-gaitanalysisUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
